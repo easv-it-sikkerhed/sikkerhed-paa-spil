@@ -1,5 +1,5 @@
 ---
-title: Kampen om cybermørket
+title: Kampen mod cybermørket
 Description: "Brætspil hvor virksomheder dyster om at sikre profitable forretning. Men pas på for truslerne lurer"
 tags: ["rollespil"]
 image: "/img/kampen-om-cybermoerket.jpg"
