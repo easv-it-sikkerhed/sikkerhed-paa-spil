@@ -12,3 +12,21 @@ weight: 5
 Phishing er svindel, hvor kriminelle udgiver sig for at være troværdige parter for at narre folk til at dele følsomme oplysninger som adgangskoder eller bankoplysninger. Man kalder det phishing når det foregår via emails. Smishing (SMS-phishing) når det er gennem SMS og vishing (voice-phishing) for telefonopkald.
 
 Kan du gennemskue phishing fra legitime henvendelser?
+
+## Sådan kommer du i gang
+
+Phishing-spillet kræver at deltagerne er samlet i et lokale med en fælles skærm som alle kan se. Det kan f.eks. være et klasseværelse eller et mødelokale. En besked vises på skærmen og deltagerne gætter om beskeden er phishing eller ej.
+
+Der er 2 variationer af dette spil. En for grupper hvor der ligges op til en kort diskussion. Den anden svare deltagerne hver for sig uden diskussion.
+
+## Materiale
+
+#### Grupper
+
+- [🧑‍🏫 Phishing-spillet Grupper](/files/phishing/Phishing-spillet-Grupper.pptx)
+- [📝 Skema til grupper](/files/phishing/Skema%20til%20grupper.docx)
+
+#### Individuelt
+
+- [🧑‍🏫 Phishing-spillet Individuelt](/files/phishing/Phishing-spillet-Grupper.pptx)
+- [📝 Skema, individuelt](/files/phishing/Skema%2C%20individuelt.docx)

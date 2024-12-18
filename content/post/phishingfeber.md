@@ -9,3 +9,8 @@ weight: 7
 Phishingfeber-spillet er et rollespil hvor spillerne i grupper skal forsøge at overbevise de andre om besked er phishing eller troværdig.
 
 Klik på "Phishingfeber-spillet" og klik derefter på "Download mappe" knappen. ZIP-filen indeholder både instruktioner til spillet og de beskeder som bruges til spillet.
+
+## Materiale
+
+- [📋 Spilleregler](/files/phishingfeber/Phishingfeber%20Spilleregler.pdf)
+- [📬 Mails](/files/phishingfeber/Mails.zip)

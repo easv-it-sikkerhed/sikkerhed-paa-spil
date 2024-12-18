@@ -12,3 +12,13 @@ weight: 7
 Et dilemmaspil om it-sikkerhed – baseret på radioprogrammet “Sara og monopolet”
 Dilemmaerne er fiktive historier om it sikkerhedsproblematikker indsendt af fiktive
 spørgere.
+
+## Materiale
+
+#### For studerende
+
+- [🖨️ Hent spillet til udskrift](/files/sara-og-sikkerhedsmonopolet/Sara%20og%20Sikkerhedsmonopolet%20studerende.pdf)
+
+#### For virksomheder
+
+- [🖨️ Hent spillet til udskrift](/files/sara-og-sikkerhedsmonopolet/Sara%20og%20Sikkerhedsmonopolet%20virksomheder.pdf)
