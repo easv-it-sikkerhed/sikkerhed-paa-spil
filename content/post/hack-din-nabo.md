@@ -13,6 +13,10 @@ Dette er et spil om at udforske og forstå din placering i den digitale verden.
 
 Hvad findes der af viden om dig, som alle kan finde online? Hvad registrerer andre om dig med dit vidende? - og uden dit vidende? Hvem er dit digitale “du”?
 
+| Antal deltager | Spilletid | Type              | Læring                                           |
+| -------------- | --------- | ----------------- | ------------------------------------------------ |
+| 2+             | 20-40 min | Undersøgelsesspil | Privathed, overvågning, internettet glemmer ikke |
+
 ## Materiale
 
 #### For virksomheder

@@ -13,6 +13,10 @@ Hvor stærkt er dit nuværende password?
 
 Få svaret og få hjælp til at lave bedre passwords som er til at huske.
 
+| Antal deltager | Spilletid | Type                      | Læring             |
+| -------------- | --------- | ------------------------- | ------------------ |
+| 2+             | 20-30min  | Konstruktion og huskespil | Password sikkerhed |
+
 ## Materiale
 
 - [🧑‍🏫 Præsentation (PDF)](/files/password/Password-spil.pdf)

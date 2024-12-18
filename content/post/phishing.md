@@ -13,6 +13,10 @@ Phishing er svindel, hvor kriminelle udgiver sig for at være troværdige parter
 
 Kan du gennemskue phishing fra legitime henvendelser?
 
+| Antal deltager | Spilletid | Type | Læring                            |
+| -------------- | --------- | ---- | --------------------------------- |
+| 2+             | 20min     | Quiz | Kritisk tænkning, Spotte phishing |
+
 ## Sådan kommer du i gang
 
 Phishing-spillet kræver at deltagerne er samlet i et lokale med en fælles skærm som alle kan se. Det kan f.eks. være et klasseværelse eller et mødelokale. En besked vises på skærmen og deltagerne gætter om beskeden er phishing eller ej.

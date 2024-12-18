@@ -11,6 +11,10 @@ weight: 1
 
 Spillet er et rollespil, hvor deltagerne indtager roller som enten lovlydige eller hackere. Målet for de lovlydige er at anmelde hackerne til politiet, før de selv bliver hacket. Nogle spillere har en særlig rolle som PET, IT-konsulent eller nørd, men alle skjuler deres identitet, for ingen kan stole på hackere...
 
+| Antal deltager | Spilletid | Type      | Læring                                        |
+| -------------- | --------- | --------- | --------------------------------------------- |
+| 8-18           | 30-60 min | Rollespil | Cyber trusler, hvem står bag og konsekvenser. |
+
 ## Materiale
 
 - [🎥️ Cybertruslen](https://www.youtube.com/watch?v=z4d7lMhzn-0)

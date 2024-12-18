@@ -11,6 +11,10 @@ weight: 3
 
 Velkommen til spillet, hvor nystartede virksomheder dyster om at opbygge den mest sikre og profitable forretning. Men pas på! Trusler som hacking, phishing og interne sårbarheder lurer overalt. Kan du navigere gennem disse udfordringer og klare kampen mod cybermørket?
 
+| Antal deltager      | Spilletid | Type     | Læring                                                |
+| ------------------- | --------- | -------- | ----------------------------------------------------- |
+| 3-4 per spilleplade | 45-60 min | Brætspil | Trusselsbillede, sikkerhedsbegreber, sikkerhedstiltag |
+
 ## Materiale
 
 - [🎥 Video med regler](https://www.youtube.com/watch?v=feeHPbRrZKI)

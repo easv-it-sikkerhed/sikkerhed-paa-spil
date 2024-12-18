@@ -13,6 +13,10 @@ Et dilemmaspil om it-sikkerhed – baseret på radioprogrammet “Sara og monopo
 Dilemmaerne er fiktive historier om it sikkerhedsproblematikker indsendt af fiktive
 spørgere.
 
+| Antal deltager         | Spilletid | Type      | Læring                                          |
+| ---------------------- | --------- | --------- | ----------------------------------------------- |
+| 3-4 plus evt tilskurer | 15-60min  | Rollespil | IT-etik, dagligdags IT sikkerhedsproblematikker |
+
 ## Materiale
 
 #### For studerende

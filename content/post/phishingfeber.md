@@ -10,6 +10,10 @@ Phishingfeber-spillet er et rollespil hvor spillerne i grupper skal forsøge at 
 
 Klik på "Phishingfeber-spillet" og klik derefter på "Download mappe" knappen. ZIP-filen indeholder både instruktioner til spillet og de beskeder som bruges til spillet.
 
+| Antal deltager | Spilletid | Type      | Læring                            |
+| -------------- | --------- | --------- | --------------------------------- |
+| 2-6 per gruppe | 45 min    | Rollespil | Kritisk tænkning, Spotte phishing |
+
 ## Materiale
 
 - [📋 Spilleregler](/files/phishingfeber/Phishingfeber%20Spilleregler.pdf)
