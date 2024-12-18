@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Sikkerhed på spil'
+theme = 'lightbi-hugo'
+
+[markup]
+defaultMarkdownHandler = 'goldmark'
+[markup.goldmark.renderer]
+unsafe = true
+
+[Params]
+previewCardImagePlacement = "top"
+
+[[menu.main]]
+name = "Spil"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Formål"
+url = "/about/"
+weight = 5
