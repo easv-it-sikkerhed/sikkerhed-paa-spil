@@ -4,7 +4,7 @@ Description: "Brætspil hvor virksomheder dyster om at sikre profitable forretni
 tags: ["rollespil"]
 image: "/img/kampen-om-cybermoerket.jpg"
 date: 2024-12-12T09:25:02
-weight: 3
+weight: 4
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uyZI2O7L4co?si=8gxGKAjb4BPNWv2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
