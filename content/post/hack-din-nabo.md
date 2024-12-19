@@ -1,6 +1,6 @@
 ---
 title: '"Hack" din nabo'
-Description: "Spillet er et rollespil, hvor deltagerne indtager roller som enten lovlydige eller hackere."
+Description: "Dette er et spil om at udforske og forstå din placering i den digitale verden."
 tags: ["osint"]
 image: "/img/hack-din-nabo.jpg"
 date: 2024-12-12T09:25:02
