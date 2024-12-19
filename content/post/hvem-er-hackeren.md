@@ -19,5 +19,5 @@ Spillet er et rollespil, hvor deltagerne indtager roller som enten lovlydige ell
 
 - [🎥️ Cybertruslen](https://www.youtube.com/watch?v=z4d7lMhzn-0)
 - [🎥️ Video med regler](https://www.youtube.com/watch?v=zoUICgkhnno)
-- [🖨️ Hent spillet til udskrift 🇩🇰](/files/hvem-er-hackeren/Hacker-spilllet.pdf)
-- [🖨️ Download the game for printing 🇬🇧](/files/hvem-er-hackeren/Hacker-game.pdf)
+- [🖨️ Hent spillet til udskrift 🇩🇰](../../files/hvem-er-hackeren/Hacker-spilllet.pdf)
+- [🖨️ Download the game for printing 🇬🇧](../../files/hvem-er-hackeren/Hacker-game.pdf)

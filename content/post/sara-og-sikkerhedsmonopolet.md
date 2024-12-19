@@ -21,8 +21,8 @@ spørgere.
 
 #### For studerende
 
-- [🖨️ Hent spillet til udskrift](/files/sara-og-sikkerhedsmonopolet/Sara%20og%20Sikkerhedsmonopolet%20studerende.pdf)
+- [🖨️ Hent spillet til udskrift](../../files/sara-og-sikkerhedsmonopolet/Sara%20og%20Sikkerhedsmonopolet%20studerende.pdf)
 
 #### For virksomheder
 
-- [🖨️ Hent spillet til udskrift](/files/sara-og-sikkerhedsmonopolet/Sara%20og%20Sikkerhedsmonopolet%20virksomheder.pdf)
+- [🖨️ Hent spillet til udskrift](../../files/sara-og-sikkerhedsmonopolet/Sara%20og%20Sikkerhedsmonopolet%20virksomheder.pdf)

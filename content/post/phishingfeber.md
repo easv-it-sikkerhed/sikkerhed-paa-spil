@@ -16,5 +16,5 @@ Klik på "Phishingfeber-spillet" og klik derefter på "Download mappe" knappen. 
 
 ## Materiale
 
-- [📋 Spilleregler](/files/phishingfeber/Phishingfeber%20Spilleregler.pdf)
-- [📬 Mails](/files/phishingfeber/Mails.zip)
+- [📋 Spilleregler](../../files/phishingfeber/Phishingfeber%20Spilleregler.pdf)
+- [📬 Mails](../../files/phishingfeber/Mails.zip)

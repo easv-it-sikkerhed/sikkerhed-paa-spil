@@ -27,10 +27,10 @@ Der er 2 variationer af dette spil. En for grupper hvor der ligges op til en kor
 
 #### Grupper
 
-- [🧑‍🏫 Phishing-spillet Grupper](/files/phishing/Phishing-spillet-Grupper.pptx)
-- [📝 Skema til grupper](/files/phishing/Skema%20til%20grupper.docx)
+- [🧑‍🏫 Phishing-spillet Grupper](../../files/phishing/Phishing-spillet-Grupper.pptx)
+- [📝 Skema til grupper](../../files/phishing/Skema%20til%20grupper.docx)
 
 #### Individuelt
 
-- [🧑‍🏫 Phishing-spillet Individuelt](/files/phishing/Phishing-spillet-Grupper.pptx)
-- [📝 Skema, individuelt](/files/phishing/Skema%2C%20individuelt.docx)
+- [🧑‍🏫 Phishing-spillet Individuelt](../../files/phishing/Phishing-spillet-Grupper.pptx)
+- [📝 Skema, individuelt](../../files/phishing/Skema%2C%20individuelt.docx)

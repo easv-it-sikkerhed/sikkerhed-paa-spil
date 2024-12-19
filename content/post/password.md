@@ -19,5 +19,5 @@ Få svaret og få hjælp til at lave bedre passwords som er til at huske.
 
 ## Materiale
 
-- [🧑‍🏫 Præsentation (PDF)](/files/password/Password-spil.pdf)
-- [🧑‍🏫 Præsentation (PowerPoint)](/files/password/Password.pptx)
+- [🧑‍🏫 Præsentation (PDF)](../../files/password/Password-spil.pdf)
+- [🧑‍🏫 Præsentation (PowerPoint)](../../files/password/Password.pptx)

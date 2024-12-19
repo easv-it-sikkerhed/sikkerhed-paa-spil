@@ -21,12 +21,12 @@ Hvad findes der af viden om dig, som alle kan finde online? Hvad registrerer and
 
 #### For virksomheder
 
-- [📋 Spilleregler-virksomhed](/files/hack-din-nabo/HACK%20DIN%20NABO%20spilleregler-virksomhed.pdf)
-- [📝 Hack en kendt skema](/files/hack-din-nabo/2.%20Hack%20en%20kendt%20skema.docx)
-- [📝 Hack din kollega skema](/files/hack-din-nabo/3.%20Hack%20din%20kollega%20skema.docx)
+- [📋 Spilleregler-virksomhed](../../files/hack-din-nabo/HACK%20DIN%20NABO%20spilleregler-virksomhed.pdf)
+- [📝 Hack en kendt skema](../../files/hack-din-nabo/2.%20Hack%20en%20kendt%20skema.docx)
+- [📝 Hack din kollega skema](../../files/hack-din-nabo/3.%20Hack%20din%20kollega%20skema.docx)
 
 #### For studerende
 
-- [📋 Spilleregler-studerende](/files/hack-din-nabo/HACK%20DIN%20NABO%20spilleregler-studerende.pdf)
-- [📝 Hack en kendt skema](/files/hack-din-nabo/1.%20Hack%20en%20kendt%20skema.docx)
-- [📝 Hack din medstuderende skema](/files/hack-din-nabo/2.%20Hack%20din%20medstuderende.docx)
+- [📋 Spilleregler-studerende](../../files/hack-din-nabo/HACK%20DIN%20NABO%20spilleregler-studerende.pdf)
+- [📝 Hack en kendt skema](../../files/hack-din-nabo/1.%20Hack%20en%20kendt%20skema.docx)
+- [📝 Hack din medstuderende skema](../../files/hack-din-nabo/2.%20Hack%20din%20medstuderende.docx)
