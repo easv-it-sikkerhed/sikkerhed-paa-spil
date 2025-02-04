@@ -25,6 +25,14 @@ Der er 2 variationer af dette spil. En for grupper hvor der ligges op til en kor
 
 ## Materiale
 
+#### Baggrundsviden
+
+- [🎥 Impersonation](https://youtu.be/19Iu27kBW40)
+- [🎥 Social engineering](https://youtu.be/9HEg28YD6No)
+- [🎥 Phishing](https://youtu.be/Kz5ZjJUyP8s)
+- [🎥 Genkend phishing](https://youtu.be/K4u8ogj3Uwc)
+- [🎥 Social engineering](https://youtu.be/BhBjujVq9Xg)
+
 #### Grupper
 
 - [🧑‍🏫 Phishing-spillet Grupper](../../files/phishing/Phishing-spillet-Grupper.pptx)

@@ -19,6 +19,8 @@ Hvad findes der af viden om dig, som alle kan finde online? Hvad registrerer and
 
 ## Materiale
 
+- [🎥 Privathed](https://youtu.be/bNRd6W1ztU0)
+
 #### For virksomheder
 
 - [📋 Spilleregler-virksomhed](../../files/hack-din-nabo/HACK%20DIN%20NABO%20spilleregler-virksomhed.pdf)

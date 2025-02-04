@@ -19,4 +19,5 @@ Velkommen til spillet, hvor nystartede virksomheder dyster om at opbygge den mes
 
 - [🎥 Video med regler](https://www.youtube.com/watch?v=feeHPbRrZKI)
 - [🖨️ Hent spillet til udskrift 🇩🇰](../../files/kampen-mod-cybermoerket/Kampen%20mod%20Cyberm%C3%B8rket_Awarenessspillet.pdf)
+- [🖨️ Spillebræt. Udskriv i A3 🇩🇰](../../files/kampen-mod-cybermoerket/Spillebr%C3%A6t%20-%20Udskriv%20i%20A3.pdf)
 - [🖨️ Download the game for printing 🇬🇧](../../files/kampen-mod-cybermoerket/The%20Fight%20Against%20Cyber%20Darkness.pdf)
